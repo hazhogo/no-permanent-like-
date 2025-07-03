@@ -1,0 +1,6 @@
+# .env
+
+BOT_TOKEN=7767366013:AAH7xhl49t-_DuiQjneqRG33U1dKcI0z7Zk
+API_URL_TEMPLATE=https://no-permanent-like-api.vercel.app/like?uid={uid}&server_name={region}
+WEBHOOK_URL=https://your-webhook-url.com/
+PORT=5000
